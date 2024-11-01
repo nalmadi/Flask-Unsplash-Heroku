@@ -1,1 +1,1 @@
-# Flask-Unsplash-Heroku
+# Flask-Unsplash-App
