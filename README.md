@@ -1,1 +1,1 @@
-# Flask-Unsplash-App
+# Flask Unsplash App
